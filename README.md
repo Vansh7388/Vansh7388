@@ -10,15 +10,12 @@
 
 # Badges
 
-## Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-## Frameworks & Libraries
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -28,8 +25,6 @@
 ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-000000?style=flat&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-## Web Development & Tools
 ![Website Developer](https://img.shields.io/badge/-Website%20Developer-5B2C6F?style=flat&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-25C8F3?style=flat&logo=api&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/-AI-FF6F61?style=flat&logo=ai&logoColor=white)
@@ -50,28 +45,18 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4F00?style=flat&logo=streamlit&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-## Deployment & Platforms
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-6A4CFC?style=flat&logo=render&logoColor=white)
 ![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)
-
-## Web Technologies
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-## Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## Mobile Development
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-## Data Science & Machine Learning
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0072C6?style=flat&logo=ai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0072C6?style=flat&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -83,8 +68,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-## Tools & Platforms
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
