@@ -1,5 +1,9 @@
 name: Generate Snake Game
 
+# Add permissions
+permissions:
+  contents: write
+
 on:
   schedule:
     # Runs every 12 hours
