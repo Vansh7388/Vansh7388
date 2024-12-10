@@ -83,6 +83,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vansh7388&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vansh7388&theme=default&utcOffset=8)
 
-![GitHub Snake Animation](https://github.com/Vansh7388/your-repo/blob/main/dist/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/Vansh7388/Vansh7388/output/snake.svg)
 
 
