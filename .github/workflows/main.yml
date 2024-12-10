@@ -1,44 +1,36 @@
-name: Generate Snake Game
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-permissions:
-  contents: write
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v2
       
-      # Create dist directory
-      - name: Create dist directory
-        run: mkdir -p dist
-
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          snake_color: '#800080'
-          color_snake: '#800080'
-          color_dots: "#24292f,#216e39,#30a14e,#40c463"
+            dist/github-contribution-grid-snake.gif
+          
+          # Options for snake path finding algorithm
+          snake_color: '#800080' # purple color for the snake
+          grid_snake_color: '#800080'
+          contribute_color: 'green'
 
-      # Debug step to check directory contents
-      - name: List directory contents
-        run: ls -la dist/
-
-      - uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Generate Snake Animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
